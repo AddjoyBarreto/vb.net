@@ -1,0 +1,148 @@
+Imports Oracle.DataAccess.Client
+Public Class billing
+    Private bitmap As Bitmap
+    Dim da As OracleDataAdapter
+    Dim d As DataSet
+
+
+    Dim con1 As OracleConnection
+    Dim cmd As OracleCommand
+    Dim query As String
+    Dim temp, I As Integer
+    Dim reader2 As OracleDataReader
+    Dim seats As Integer
+    Dim row, column As Integer
+
+    Private source As String
+    Private destination As String
+
+    Private type As String
+
+    Dim train As DataGridViewRow
+    Dim quantity1, price As New Integer
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim m As New user
+        m.Show()
+        Me.Hide()
+        Me.ResetMouseEventArgs()
+
+
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Button1.Visible = False
+        Button2.Visible = False
+        Button3.Visible = False
+
+        'Add a Panel control.
+        Dim panel As New Panel()
+        Me.Controls.Add(panel)
+
+        'Create a Bitmap of size same as that of the Form.
+        Dim grp As Graphics = panel.CreateGraphics()
+        Dim formSize As Size = Me.ClientSize
+        Bitmap = New Bitmap(formSize.Width, formSize.Height, grp)
+        grp = Graphics.FromImage(Bitmap)
+
+        'Copy screen area that that the Panel covers.
+        Dim panelLocation As Point = PointToScreen(panel.Location)
+        grp.CopyFromScreen(panelLocation.X, panelLocation.Y, 0, 0, formSize)
+
+        'Show the Print Preview Dialog.
+        PrintPreviewDialog1.Document = PrintDocument1
+        PrintPreviewDialog1.PrintPreviewControl.Zoom = 1
+        PrintPreviewDialog1.ShowDialog()
+
+        Button1.Visible = True
+        Button2.Visible = True
+        Button3.Visible = True
+    End Sub
+
+    Private Sub PrintPage(sender As Object, e As System.Drawing.Printing.PrintPageEventArgs) Handles PrintDocument1.PrintPage
+        'Print the contents.
+        e.Graphics.DrawImage(bitmap, 0, 0)
+    End Sub
+
+    Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+
+    End Sub
+
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+
+    End Sub
+
+    Private Sub billing_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        con1 = New OracleConnection("Data Source=localhost;User ID=supermarket3;password=supermarket3")
+        Dim ab As DataGridViewComboBoxColumn
+        ab = DataGridView1.Columns(0)
+        Dim search As String
+        Dim id1 As Integer
+        id1 = 1
+        search = "select * from ITEMS"
+        cmd = New OracleCommand(search, con1)
+
+        con1.Open()
+        reader2 = cmd.ExecuteReader()
+
+        Do While reader2.Read()
+            ab.Items.Add(reader2("ITEM_NAME"))
+
+
+        Loop
+        reader2.Close()
+        con1.Close()
+
+
+
+    End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim i, total As Integer
+        i = 0
+        total = 0
+        While DataGridView1.Rows(i).Cells(1).Value <> ""
+            Dim search As String
+
+            quantity1 = DataGridView1.Rows(i).Cells(1).Value
+
+            Dim reader2 As OracleDataReader
+            search = "select * from ITEMS where ITEM_NAME='" & DataGridView1.Rows(i).Cells(0).Value.ToString & "' "
+            cmd = New OracleCommand(search, con1)
+
+            con1.Open()
+            reader2 = cmd.ExecuteReader()
+
+            Do While reader2.Read()
+                DataGridView1.Rows(i).Cells(2).Value = reader2("ITEM_COST")
+
+
+            Loop
+            reader2.Close()
+            con1.Close()
+
+
+            price = DataGridView1.Rows(i).Cells(2).Value
+
+            DataGridView1.Rows(i).Cells(3).Value = price * quantity1
+            total = total + price * quantity1
+            i = i + 1
+        End While
+
+        TextBox1.Text = total.ToString
+
+    End Sub
+End Class

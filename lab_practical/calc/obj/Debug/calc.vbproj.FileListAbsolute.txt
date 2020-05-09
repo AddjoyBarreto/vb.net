@@ -1,0 +1,11 @@
+C:\luke\qwerty\calc\obj\Debug\calc.vbprojResolveAssemblyReference.cache
+C:\luke\qwerty\calc\obj\Debug\calc.Form2.resources
+C:\luke\qwerty\calc\obj\Debug\calc.Resources.resources
+C:\luke\qwerty\calc\obj\Debug\calc.vbproj.GenerateResource.Cache
+C:\luke\qwerty\calc\obj\Debug\calc.xml
+C:\luke\qwerty\calc\bin\Debug\calc.exe.config
+C:\luke\qwerty\calc\bin\Debug\calc.exe
+C:\luke\qwerty\calc\bin\Debug\calc.pdb
+C:\luke\qwerty\calc\bin\Debug\calc.xml
+C:\luke\qwerty\calc\obj\Debug\calc.exe
+C:\luke\qwerty\calc\obj\Debug\calc.pdb

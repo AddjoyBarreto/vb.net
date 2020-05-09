@@ -1,0 +1,5 @@
+C:\luke\qwerty\qwerty\bin\Debug\qwerty.exe.config
+C:\luke\qwerty\qwerty\obj\Debug\qwerty.vbprojResolveAssemblyReference.cache
+C:\luke\qwerty\qwerty\obj\Debug\qwerty.Resources.resources
+C:\luke\qwerty\qwerty\obj\Debug\qwerty.vbproj.GenerateResource.Cache
+C:\luke\qwerty\qwerty\obj\Debug\qwerty.xml
