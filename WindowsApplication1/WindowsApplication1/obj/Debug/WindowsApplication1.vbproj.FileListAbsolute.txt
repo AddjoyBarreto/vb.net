@@ -1,0 +1,88 @@
+C:\cliff\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.register.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\cliff\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\cliff\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\cliff\WindowsApplication1\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Employee.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.create.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.customer_login.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.inventory.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.user.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Itemstockinput.resources
+C:\cliff\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.billing.resources
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.billing.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Employee.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.user.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.create.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.customer_login.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.inventory.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Itemstockinput.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.register.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\K-DIAS\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\K-DIAS\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\K-DIAS\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\K-DIAS\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.billing.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Employee.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.inventorymain.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.loginbar.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.user.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.create.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.inventory.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Itemstockinput.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.register.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.register1.resources
+F:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.create1.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.billing.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.create1.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Delete_Record.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.inventorymain.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Modify_Record.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.user.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Itemstockinput.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.register.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.viewrecords.resources
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\addjoy barreto\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\addjoy\Desktop\files and documents\vb_netsupermarket\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\addjoy\Desktop\files and documents\vb_netsupermarket\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\addjoy\Desktop\files and documents\vb_netsupermarket\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\addjoy\Desktop\files and documents\vb_netsupermarket\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
